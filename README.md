@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khizer-flow
 - 👀 I’m interested in learning c++,web development and bug bounties 
-- 🌱 I’m currently doing BSCS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing Bachelor's in Computer Science
+- 💞️ I’m looking to collaborate on anything related to C++ 
 - 📫 How to reach me ...
 
 <!---
