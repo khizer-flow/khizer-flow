@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Computer Science undergraduate @ COMSATS University (GPA 3.7)  
+- 🎓 Computer Science undergraduate @ COMSATS University 
 - 💻 Passionate about building **responsive, user-friendly web apps**  
 - 🌱 Currently learning **Advanced React Patterns** and **GraphQL**  
 - 🏆 Delivered 10+ client projects with measurable business impact  
