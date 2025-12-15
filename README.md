@@ -50,13 +50,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khizer-flow&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khizer-flow&theme=radical" height="165"/>
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=khizer-flow&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false&hide_rank=false&show_icons=true&line_height=28" height="180"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizer-flow&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <!-- Extra Activity Badges -->
+  ![Commit Activity](https://img.shields.io/github/commit-activity/m/khizer-flow?style=for-the-badge&logo=github)
+  ![Open Issues](https://img.shields.io/github/issues/khizer-flow?style=for-the-badge&logo=github)
+  ![Pull Requests](https://img.shields.io/github/issues-pr/khizer-flow?style=for-the-badge&logo=github)
+</p>
+
 
 ---
 
