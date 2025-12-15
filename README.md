@@ -59,11 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizer-flow&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+<!-- Extra Activity Badges -->
 <p align="center">
-  <!-- Extra Activity Badges -->
-  ![Commit Activity](https://img.shields.io/github/commit-activity/m/khizer-flow?style=for-the-badge&logo=github)
-  ![Open Issues](https://img.shields.io/github/issues/khizer-flow?style=for-the-badge&logo=github)
-  ![Pull Requests](https://img.shields.io/github/issues-pr/khizer-flow?style=for-the-badge&logo=github)
+  <img src="https://img.shields.io/github/commit-activity/m/khizer-flow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/issues/khizer-flow?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/issues-pr/khizer-flow?style=for-the-badge&logo=github"/>
 </p>
 
 
