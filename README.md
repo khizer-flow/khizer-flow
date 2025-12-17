@@ -54,10 +54,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khizer-flow&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_title=false&hide_rank=false&show_icons=true&line_height=28" height="180"/>
 </p>
 
+
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizer-flow&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+![khizer-flow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khizer-flow&theme=vue-dark&hide_border=true)
 
 
 
