@@ -7,7 +7,7 @@
 - 🎓 **Computer Science undergraduate** @ COMSATS University, Abbottabad  
 - 💻 Passionate about **building full-stack web applications** that are **scalable, responsive, and user-friendly**  
 - 🌱 Currently exploring **Advanced React Patterns**, **GraphQL**, and **Next.js**  
-- 🏆 Delivered **10+ client projects** with measurable business impact  
+- 🏆 Delivered **50+ client projects** with measurable business impact  
 - ⚡ Fun fact: I can debug faster with coffee ☕  
 
 ---
