@@ -55,10 +55,7 @@
 </p>
 
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khizer-flow&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
 
 ![khizer-flow's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khizer-flow&theme=vue-dark&hide_border=true)
 
