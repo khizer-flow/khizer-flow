@@ -30,7 +30,7 @@
 - **AI & ML Research:** Architecting a **Tactical-AI Framework for Football** using Spatio-Temporal Graph Neural Networks (PyTorch Geometric) and counterfactual node perturbation to evaluate Expected Threat ($xT$).
 - **Distributed Systems & Data:** Engineering **CartPulse**, a real-time flash-sale analytics and e-commerce engine built on **MongoDB** and **Redis**.
 - **Production Engineering ([WebSync](https://thewebsync.vercel.app/)):** Shipping custom **Next.js/React** applications, autonomous **AI agents & n8n/HubSpot workflows**, and high-converting **Shopify/WooCommerce** systems for US, UK, and international clients.
-- **Open Source:** Contributing to Python packaging and dependency resolution tooling (including [`wheelgap`](https://github.com/khizer-flow)).
+- **Open Source:** Contributing to Python packaging and dependency resolution tooling.
 - **Education:** Final-year BS in Computer Science @ COMSATS University Islamabad.
 
 ---
